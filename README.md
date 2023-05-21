@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋 
+My name is Noah Funderburgh
+- I am currently a Senior Software Development student at Grand Canyon University
+- Previously Graduated from Clackamas Community College
 
-<!--
-**nfunderburgh/nfunderburgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 I'm Currently Learning
 
-Here are some ideas to get you started:
+- CST-326 written and verbal communication for software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  🛠️ Skills
+HTML / CSS / JS / C# / Python / Java
+
+
+
