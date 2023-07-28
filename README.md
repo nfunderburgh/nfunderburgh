@@ -5,7 +5,7 @@ My name is Noah Funderburgh
 
 ## 💻 I'm Currently Learning
 
-- CST-326 written and verbal communication for software development
+- CST-350	Programming in C# III
 
 
 ##  🛠️ Skills
