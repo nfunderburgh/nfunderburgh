@@ -1,16 +1,14 @@
 ## Hi there 👋 
 My name is Noah Funderburgh
-- I am currently a Senior Software Development student at Grand Canyon University
-- Previously Graduated from Clackamas Community College
-- Currently I am looking for a job
+- I am currently a Senior Software Development Student at Grand Canyon University Graduating Summer of 2024
+- Previously Graduated from Clackamas Community College for Computer Science
+- Currently I am looking for a software development job
 
 ## 💻 I'm Currently Learning
-
-- CST-323	Cloud Computing
-
+- CST-391	JavaScript Web Application Development
 
 ##  🛠️ Skills
-HTML / CSS / JS / C# / Python / Java / Azure
+C# / Python / Java / HTML / CSS / JS / Azure / AWS / MySQL
 
 
 
