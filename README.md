@@ -5,7 +5,7 @@ My name is Noah Funderburgh
 - Currently I am looking for a software development job
 
 ## 💻 I'm Currently Learning
-- CST-391	JavaScript Web Application Development
+- CST-221	Operating Systems Concepts
 
 ##  🛠️ Skills
 C# / Python / Java / HTML / CSS / JS / Azure / AWS / MySQL
